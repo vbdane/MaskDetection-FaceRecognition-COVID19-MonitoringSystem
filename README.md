@@ -48,5 +48,5 @@ make sure you install the same versions as given in the file since I've tested w
 Run the main_gui.py file. A GUI should open which will contain non-technical jargon, navigate through it step-by-step.
 
 ```
-py main_hui.py
+py main_gui.py
 ```

@@ -3,11 +3,12 @@ A python script with GUI interface to detect unmasked individuals and recognise 
 
 <h2>About the project</h2>
 This python project was created as a submission for a school project during the COVID-19 pandemic. The GUI intentionally contains <i>dumbed down</i> language to make non-technical amongst the staff whom this was presented before, understand the concept better. <br>
-The primary logical objectives are as follows:
-* 😀 Obtain facial images of persons present in a workspace to train a pre-built face-recognition model.
-* 📸 Continously parse a video livestream and to check for faces present frame-by-frame using a caffemodel
-* 😷 If any faces detected, check the presence of a mask using pre-trained model.
-* 😳 Use the trained face-recognition model to identify the unmasked face and record the name in a locally stored sqlite database.
+The primary logical objectives are as follows: <br>
+• 😀 Obtain facial images of persons present in a workspace to train a pre-built face-recognition model.<br>
+• 📸 Continously parse a video livestream and to check for faces present frame-by-frame using a caffemodel.<br>
+• 😷 If any faces detected, check the presence of a mask using pre-trained model.<br>
+• 😳 Use the trained face-recognition model to identify the unmasked face and record the name in a locally stored sqlite database.<br>
+• 💻 Achieve all this with visual aid (GUI navigation, displaying stream on screen) whenever possible.
 
 <h2>How to</h2>
 This project is not polished enough to be deployed but the logic can certainly be refined and then extrapolated to handle streams from camera modules via say, a Raspberry Pi. If you wish to just run this project as it is, follow the steps ahead after downlading (&extracting) or cloning this repository.

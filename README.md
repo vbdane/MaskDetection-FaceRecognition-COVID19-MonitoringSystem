@@ -1,7 +1,7 @@
 # MaskDetection-FaceRecognition-COVID19-MonitoringSystem
 A python script with GUI interface to detect unmasked individuals and recognise them (known individuals) by their names during COVID-19 pandemic in a workspace.
 
-<h2>About the project<h2>
+<h2>About the project</h2>
 This python project was created as a submission for a school project during the COVID-19 pandemic. The GUI intentionally contains <i>dumbed down</i> language to make non-technical amongst the staff whom this was presented before, understand the concept better. <br>
 The primary logical objectives are as follows:
 - 😀 Obtain facial images of persons present in a workspace to train a pre-built face-recognition model.
